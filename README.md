@@ -24,6 +24,8 @@ Busco oportunidades en automatización, desarrollo de herramientas internas, int
 
 ## Proyectos para conocer mi trabajo
 
+[Ver las siete guías visuales con capturas](GUIAS_VISUALES.md).
+
 | Proyecto | Problema que aborda | Evidencia y tecnologías |
 | --- | --- | --- |
 | [Gestión de tareas operativas](https://github.com/eslay07/gestion-tareas-operativas-apps-script) | Seguimiento, sincronización, alertas y formularios sobre hojas operativas. | Apps Script, JavaScript, Google Sheets y HTML Service; módulos y configuración de ejemplo. |
