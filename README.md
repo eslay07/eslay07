@@ -20,6 +20,8 @@ Busco oportunidades en automatización, desarrollo de herramientas internas, int
 
 [Impacto y cálculo](https://github.com/eslay07/GestorCompras/blob/main/docs/IMPACTO_OPERATIVO.md) · [Módulos y demostración](https://github.com/eslay07/GestorCompras/blob/main/docs/MODULOS.md) · [Arquitectura e instalación](https://github.com/eslay07/GestorCompras/blob/main/docs/GUIA_TECNICA.md)
 
+**Muestras actuales para descargar:** [presentación profesional de 3 páginas](https://github.com/eslay07/GestorCompras/releases/download/v2.0.0/GestorCompras_Presentacion_Actual.pdf) · [guía visual de 9 páginas](https://github.com/eslay07/GestorCompras/releases/download/v2.0.0/GestorCompras_Guia_Visual_Actual.pdf). Incluyen capturas de demostración, módulos actuales y enlaces al proyecto; actualizadas en octubre de 2026.
+
 ## Proyectos para conocer mi trabajo
 
 | Proyecto | Problema que aborda | Evidencia y tecnologías |
